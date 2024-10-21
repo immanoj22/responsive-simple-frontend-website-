@@ -1,0 +1,92 @@
+body{
+    background-color: hsla(0, 0%, 0%, 0.801);
+}
+.box{
+    width: 100%;
+    height: 225px;
+    border:3px solid;
+    margin-bottom: 3px;
+}
+#mybox1h31,#mybox2h31,#mybox3h31{
+    display: flex;
+    justify-content: center;
+    color: hsl(0, 0%, 100%);
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+#heading{
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+#box1,#box2,#box3{
+    border-color:  hsl(0, 15%, 53%);
+    background-color:hsla(0, 0%, 100%, 0.452) ;
+}
+.box1class, .box2class, .box3class{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Apple,#tomato{
+    color: rgb(255, 0, 0);
+    letter-spacing: 2px;
+    
+}
+#Orange{
+    color:orange;
+    letter-spacing: 2px;
+}
+#Banana{
+    color:rgb(255, 234, 0);
+    letter-spacing: 2px;
+}
+#strawberry{
+    color: rgb(225, 35, 35);
+    letter-spacing: 2px;
+}
+#Mango{
+    color:rgb(233, 184, 7);
+    letter-spacing: 2px;
+}
+#Potato{
+    color:#824908;
+    letter-spacing: 2px;
+}
+#Carrot{
+    color:#e17705;
+    letter-spacing: 2px;
+}
+#Cabbage{
+    color:#74d117d2;
+    letter-spacing: 2px;
+}
+#Spinach{
+    color:#17d133df;
+    letter-spacing: 2px;
+}
+#Rose{
+    color:rgb(245, 153, 168);
+    letter-spacing: 2px;
+}
+#Sunflower{
+    color:rgb(234, 152, 19);
+    letter-spacing: 2px;
+}
+#Marigold{
+    color:rgb(243, 225, 32);
+    letter-spacing: 2px;
+}
+#Lavender{
+    color:rgb(229, 108, 235);
+    letter-spacing: 2px;
+}
+#Orchid{
+    color:rgb(232, 74, 101);
+    letter-spacing: 2px;
+}
